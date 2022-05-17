@@ -22,14 +22,16 @@ Step5:
 Display the filtered image using plot and imshow.
 
  
-~~~
-Program to perform edge detection using Sobel, Laplacian, and Canny edge detectors.
-Developed by:Aavula Tharun.
-Ref.no:212221240003.
-~~~
+
 ## Program:
 
 ``` 
+Program to perform edge detection using Sobel, Laplacian, and Canny edge detectors.
+Developed by:Aavula Tharun.
+Ref.no:212221240003.
+
+
+
 import cv2
 import matplotlib.pyplot as plt
 image = cv2.imread("tom.jpg")
