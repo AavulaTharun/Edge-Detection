@@ -113,7 +113,7 @@ plt.show()
 #### SOBEL X:
 ![1 2](https://user-images.githubusercontent.com/93427201/168774631-e0a8eb62-2d22-47bb-8e59-b0afdbfb9c6f.png)
 #### SOBEL Y:
-![ex 07  2](https://user-images.githubusercontent.com/93427201/168774716-8c596db1-4517-40dc-aae0-a2273892e65d.pn
+![ex 07  2](https://user-images.githubusercontent.com/93427201/168775197-d761b82e-5aa3-47a4-bfe9-1a378a57fb93.png)
 
 #### SOBEL XY:
 ![ex 07 3](https://user-images.githubusercontent.com/93427201/168774840-927a6065-570e-4485-8b48-b7b6ba16d103.png)
